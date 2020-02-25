@@ -1,0 +1,22 @@
+QA
+User -> User, PO. Dev, Teams
+
+ User -> requirement -> Test case -> automation
+
+Bike can create task every day
+
+
+TODO
+ - cypress create task FRS -> assign ---- owner nop 
+ - cypress create task INS -> assign ---- owner game
+ - cypress create task CC ---- owner game
+
+
+ Objective 
+ - cypress
+ - workshopp cypress
+
+
+ step
+ - yarn add cypress --dev
+ - cypress open
