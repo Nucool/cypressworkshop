@@ -7,7 +7,7 @@ Bike can create task every day
 
 
 TODO
- - cypress create task FRS -> assign ---- owner nop 
+ - cypress create task FRS -> assign ---- owner nop ->> done
  - cypress create task INS -> assign ---- owner game
  - cypress create task CC ---- owner game
 
